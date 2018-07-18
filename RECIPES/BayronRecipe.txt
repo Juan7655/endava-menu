@@ -1,18 +1,20 @@
-Recipe's name:Rice with milk
+ ----------------
+| Rice with milk |
+ ----------------
 
-Ingredients:
+INGREDIENTS:
+	
+- 1 cup of rice
+- 4 canella's chips
+- 4 cups of milk
+- 2 cups of water
+- A pinch of salt
+- 2 spoonfuls of butter
+- 2 spoonfuls of vanilla's extract
+- 2 cups of sugar
+- 12 ounces of condensed milk
 
-1 cup of rice
-4 canella's chips
-4 cups of milk
-2 cups of water
-A pinch of salt
-2 spoonfuls of butter
-2 spoonfuls of vanilla's extract
-2 cups of sugar
-12 ounces of condensed milk
-
-Steps:
+PREPARATION:
 
 1. In a small pot add the water and canella's chips, bring it to boil and cook for 10 minutes.
 After, filter the canella's chips and throw away this.
