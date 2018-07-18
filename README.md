@@ -10,11 +10,25 @@ To practice git knowledge a basic restaurant menu was created.
 Every student created a recipe and used git commands for practice.
 Individual recipes branches were created, in addition to a dev and master ones.
 Menu was created using .txt files
+<<<<<<< HEAD
 =======
 # ENDAVA  MENU
 Endava Internship git challenge
+=======
 
-## Git Repo use strategy
+## CONTENT
+
+LICENSE: here you find the permissions and limitations of use the project's files
+MENU.md: Here you find the restaurant's menu with all recipes and prices
+.GITIGNORE: This file contains the ommited files for project
+RECIPES: in this folder you can find all recipes instructions created for each of members
+
+  			* Bayron_Recipe.txt: the bayron's recipe about Rice with milk
+			* Gourmet Scramblet eggs with Lechona.txt: the oscar's recipe about scramblet eggs with lechona
+			* Roasted milk.txt: the juan's recipe about roasted milk
+>>>>>>> 907f4e6... Ordered README file
+
+## GIT REPO USE STRATEGY
 
 This repository has followed a standard pattern of use. The main branch is called Master, and contains only the code which has been verified and tested. 
 From the Master branch, derives the dev branch. It contains the work that has been done independently, and tested locally. 
