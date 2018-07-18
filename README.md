@@ -1,7 +1,7 @@
 # ENDAVA  MENU
 Endava Internship git challenge
 
-## Git Repo use strategy
+## GIT REPO USE STRATEGY
 
 This repository has followed a standard pattern of use. The main branch is called Master, and contains only the code which has been verified and tested. 
 From the Master branch, derives the dev branch. It contains the work that has been done independently, and tested locally. 
