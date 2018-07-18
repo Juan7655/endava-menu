@@ -1,1 +1,2 @@
-.INFO
+.INFO.txt
+desktop.ini
