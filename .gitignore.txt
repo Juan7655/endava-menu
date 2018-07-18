@@ -1,2 +1,0 @@
-.INFO.txt
-desktop.ini
