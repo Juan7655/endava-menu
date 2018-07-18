@@ -1,6 +1,8 @@
 # ENDAVA MENU
-*Endava Internship git challenge*
+**Endava Internship git challenge**
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHzrKHnACL8XNZ0UdGaEvcki3My7y2FzwMgyjaEnNKB0AXNZaY)
+
 ## CONTEXT
 
 To practice git knowledge a basic restaurant menu was created.
