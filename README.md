@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# ENDAVA MENU
-=======
+
 # ENDAVA  MENU!
 
->>>>>>> origin
 **Endava Internship git challenge**
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHzrKHnACL8XNZ0UdGaEvcki3My7y2FzwMgyjaEnNKB0AXNZaY)
@@ -15,14 +11,6 @@ To practice git knowledge a basic restaurant menu was created.
 Every student created a recipe and used git commands for practice.
 Individual recipes branches were created, in addition to a dev and master ones.
 Menu was created using .txt files
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-# ENDAVA  MENU
-Endava Internship git challenge
-=======
-=======
->>>>>>> origin
 
 ## CONTENT
 
@@ -34,10 +22,6 @@ RECIPES: in this folder you can find all recipes instructions created for each o
   			* Bayron_Recipe.txt: the bayron's recipe about Rice with milk
 			* Gourmet Scramblet eggs with Lechona.txt: the oscar's recipe about scramblet eggs with lechona
 			* Roasted milk.txt: the juan's recipe about roasted milk
-<<<<<<< HEAD
->>>>>>> 907f4e6... Ordered README file
-=======
->>>>>>> origin
 
 ## GIT REPO USE STRATEGY
 
@@ -50,7 +34,3 @@ The main branches (Master and Dev) are protected in the Github remote repository
 In the case of Dev branch, it only needs approval from 1 contributor. The protection also ensures no forcing can be applied to the repository.
 
 All of the project is licensed under an MIT License.
-<<<<<<< HEAD
->>>>>>> daab08c... extended README with repo usage
-=======
->>>>>>> origin
